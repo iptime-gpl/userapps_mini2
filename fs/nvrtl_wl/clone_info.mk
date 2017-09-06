@@ -1,0 +1,1 @@
+clones/mini2/clone_info.mk
